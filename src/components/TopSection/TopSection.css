@@ -1,0 +1,45 @@
+#top-section {
+	color: white;
+	text-align: center;
+	background-repeat: round;
+	background-position: center; 
+	background-image: url("../../../public/images/pattern-bg.png");
+	padding-top: 30px;
+	height: 250px;
+	width: 100%;
+}
+
+#top-section-title {
+	margin: 0;
+	margin-bottom: 25px;
+}
+
+#top-section-input {
+	border: 1px solid black;
+	border-radius: 10px;
+	max-width: 555px;
+	margin: 0px auto;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+}
+
+#top-section-input input {
+	height: 50px;
+	margin: 0px auto;
+	display: inline-block;
+	width: 80%;
+	border: none;
+}
+
+#top-section-input-button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+	width: 60px;
+	height: 100%;
+	border-radius: 0px 9px 9px 0px;
+}

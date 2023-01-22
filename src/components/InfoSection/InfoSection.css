@@ -1,0 +1,39 @@
+#info-section {
+	display: flex;
+	width: 100%;
+	max-width: 1005px;
+	border: 1px solid black;
+	height: 150px;
+/*	align-items: center;*/
+	justify-content: space-around;
+	position: absolute;
+	background-color: white;
+	top: 200px;
+}
+
+#info-ip {
+	width: 200px;
+	border: 1px solid black;
+	color: hsl(0, 0%, 59%);
+}
+
+#info-location {
+	width: 200px;
+	border: 1px solid black;
+	color: hsl(0, 0%, 59%);
+	
+}
+
+#info-timezone {
+	width: 200px;
+	border: 1px solid black;
+	color: hsl(0, 0%, 59%);
+	
+}
+
+#info-isp {
+	width: 200px;
+	border: 1px solid black;
+	color: hsl(0, 0%, 59%);
+	
+}
