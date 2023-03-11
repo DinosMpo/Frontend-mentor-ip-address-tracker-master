@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Frontend-mentor-ip-address-tracker-master/static/css/main.24fdcb8b.css",
+    "main.js": "/Frontend-mentor-ip-address-tracker-master/static/js/main.28b960cc.js",
+    "static/media/pattern-bg.png": "/Frontend-mentor-ip-address-tracker-master/static/media/pattern-bg.a60a3c85aa8b88aac4b7.png",
+    "index.html": "/Frontend-mentor-ip-address-tracker-master/index.html",
+    "main.24fdcb8b.css.map": "/Frontend-mentor-ip-address-tracker-master/static/css/main.24fdcb8b.css.map",
+    "main.28b960cc.js.map": "/Frontend-mentor-ip-address-tracker-master/static/js/main.28b960cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24fdcb8b.css",
+    "static/js/main.28b960cc.js"
+  ]
+}
